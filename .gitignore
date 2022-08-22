@@ -1,6 +1,7 @@
 # Adding config.py file.
 config.py
 # Adding additional files.
+app_before_refactor.js
 .idea
 *.gitattributes
 *.ini
@@ -133,3 +134,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+static/js/app_before_refactor.js
+static/js/app_before_refactor.js
