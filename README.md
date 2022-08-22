@@ -7,7 +7,7 @@ The data used is a JavaScript object containing UFO sighting information, such a
 ## Resources
 
 <b>Data Sources:</b><br>
-- data.js, a JavaScript object supplied as a learning tool for the exercise<br>
+- <a href="https://github.com/LauraMarieRoss/UFOs/blob/main/static/js/data.js">data.js</a>, a JavaScript object supplied as a learning tool for the exercise<br>
 
 <b>Components:</b><br>
 - JavaScript for parsing the data and creating functions to display and filter the data.<br>
@@ -15,15 +15,22 @@ The data used is a JavaScript object containing UFO sighting information, such a
 - IntelliJ IDEA 2022.2 coding environment<br>
 
 ## Results
-The final webpage can be found <a href="https://github.com/LauraMarieRoss/Movies_ETL/blob/main/ETL_function_test.ipynb" target="_blank">here.</b></a><br>
+### Final Page
+The final webpage can be found <a href="https://lauramarieross.github.io/UFOs/" target="_blank">here.</a><br><br>
+<a href="https://lauramarieross.github.io/UFOs/">
+         <img alt="UFO Webiste" src="https://user-images.githubusercontent.com/105830645/185825358-f4cb89ba-8e33-408e-86d4-02ac605df7e1.png"></a>
 
-Filtering the data can be done by using the table on the left side of the page (seen here):
+### Filtering
+Filtering the data can be done by using the table on the left side of the page (seen here):<br>
+<img src="https://user-images.githubusercontent.com/105830645/185825825-9518e1ae-cde0-4344-8596-3f051617f1f9.png" width = "350">
 
 
-
-Simply enter one or multiple search criteria, such as the date of the sighting, the city, State, Country, and/or Shape of the UFO sighted into the corresponding search box. Click "Filter Table" to filter for the entered search criteria. <br>
 <br>
-In this example the table has been filtered for "ca" in the "State" search box.
+Simply enter one or multiple search criteria, such as the date of the sighting, the city, State, Country, and/or Shape of the UFO sighted into the corresponding search box. Click "Filter Table" to filter for the entered search criteria. <br>
+<h4> Filtering Example </h4>
+In this example the table has been filtered for "ca" in the "State" search box.<br>
+<img src="https://user-images.githubusercontent.com/105830645/185826150-839ac98d-d9e6-4a57-a171-2506ae154ae0.png">
+
 
 To clear the filter, clear the search criteria and click "Filter Table", or reload the page.
 
