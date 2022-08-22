@@ -32,7 +32,7 @@ In this example the table has been filtered for "ca" in the "State" search box.<
 <img src="https://user-images.githubusercontent.com/105830645/185826150-839ac98d-d9e6-4a57-a171-2506ae154ae0.png">
 
 
-To clear the filter, clear the search criteria and click "Filter Table", or reload the page.
+To clear the filter, delete the search criteria where it was entered and click "Filter Table", or reload the page.
 
 ## Summary
 There are a few drawbacks to the current design:
